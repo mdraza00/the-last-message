@@ -1,7 +1,9 @@
 body{
   background-color: #04293A;
-  text-align: center;
   color: white;
+}
+.center{
+  text-align: center;
 }
 h1{
   font-family: 'Dancing Script', cursive;
@@ -9,4 +11,20 @@ h1{
 }
 .font{
   font-family: 'ABeeZee', sans-serif;
+}
+.square{
+  height: 250px;
+  width: 250px;
+  border: 6px solid black;
+  border-radius: 140px;
+  background-color: #595B83;
+
+}
+.material{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  margin: 10px;
+  top: 40px;
+  left: 25px;
 }
