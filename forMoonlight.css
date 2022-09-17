@@ -10,6 +10,8 @@ body{
 h1{
   font-family: 'Dancing Script', cursive;
   font-size: 3rem;
+  margin-top: 20px;
+  margin-bottom: 100px;
 }
 .font{
   font-family: 'ABeeZee', sans-serif;
@@ -53,7 +55,7 @@ visibility: hidden;
 #NEXT{
   margin-left: 43%;
   width: 100px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 .mg{
   margin-bottom: 50px;
