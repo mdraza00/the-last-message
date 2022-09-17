@@ -6,10 +6,41 @@ body{
 .center{
   text-align: center;
 }
+
 h1{
   font-family: 'Dancing Script', cursive;
   font-size: 3rem;
 }
 .font{
   font-family: 'ABeeZee', sans-serif;
+}
+.circle{
+  border-radius: 100%;
+}
+.adjustments{
+  height: 250px;
+  width : 250px;
+  border : 5px solid blue;
+
+  background-color: #ffff;
+}
+.star{
+width: 25%;
+color: white;
+}
+.parellelogram{
+  border-radius: 15%;
+
+}
+.diamond{
+  margin-left: 30px;
+  height: 250px;
+  width: 260px;
+  border: 5px solid black;
+  background-color: #ffff;
+  transform: rotate(45deg);
+  border-radius: 10%;
+}
+.hide{
+visibility: hidden;
 }
