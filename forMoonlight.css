@@ -55,8 +55,14 @@ visibility: hidden;
 }
 #NEXT{
   margin-left: 43%;
-  width: 100px;
+  height: 50px;
+  width: 150px;
+  border: 5px solid black;
+  background: #A10035;
+  border-radius: 10px;
   margin-bottom: 50px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
 }
 .mg{
   margin-bottom: 50px;
